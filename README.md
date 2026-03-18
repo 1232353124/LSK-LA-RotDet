@@ -73,4 +73,16 @@ Detection Head (Rotated BBox)
 | Ours | **77.42** |
 
 ---
+## 👨‍💻 Author
 
+- **Ziyi Jia**  
+
+Xi’an Jiaotong-Liverpool University
+
+---
+
+## 📬 Contact
+
+- 📧 jiaziyi2005@126.com
+
+If you have any feedback or ideas for collaboration, please feel free to reach out! 😊
