@@ -36,7 +36,7 @@ Achieving strong performance on benchmark datasets while maintaining efficiency.
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="800"/>
+  <img src="architecture.png" width="800"/>
 </p>
 
 The overall architecture of **LSK-LA RotDet**, consisting of:
