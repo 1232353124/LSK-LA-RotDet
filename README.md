@@ -2,6 +2,10 @@
 
 **Dynamic Receptive Field Meets Local Attention for Rotated Small Object Detection in Remote Sensing Imagery**
 
+## 📄 Paper
+
+- IEEE Access: https://doi.org/10.1109/ACCESS.2026.3675791
+
 ## 🧠 Overview
 
 LSK-LA RotDet is a lightweight yet high-performance rotated object detection framework designed for remote sensing imagery. It addresses key challenges such as:
@@ -31,15 +35,15 @@ Achieving strong performance on benchmark datasets while maintaining efficiency.
 
 ## 🏗️ Architecture
 
-```
-Input Image
-↓
-LSK-DRFNet (Backbone)
-↓
-LA-PAFPN (Neck)
-↓
-Detection Head (Rotated BBox)
-```
+<p align="center">
+  <img src="assets/architecture.png" width="800"/>
+</p>
+
+The overall architecture of **LSK-LA RotDet**, consisting of:
+
+- LSK-DRFNet (Backbone)
+- LA-PAFPN (Neck)
+- Rotated Detection Head
 
 
 ### Key Components
